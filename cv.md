@@ -20,16 +20,6 @@ Hello! My name is Veranika, and I am an aspiring frontend developer with a passi
 - **Soft Skills:** Strong problem-solving abilities, excellent communication skills, and a team player.
 - **Other Strengths:** Adaptability, time management, and attention to detail.
 
-### Code Example
-```
-function bmi(weight, height) {
-
-  const bmi = weight/(height*height);
-  
-  return bmi <= 18.5 ? 'Underweight': bmi <= 25 ? 'Normal': bmi <= 30 ? 'Overweight': 'Obese';
-} 
-```
-
 ### Education
 **[Udemy course](https://www.udemy.com/course/webdeveloper/?couponCode=KEEPLEARNING)**
 
@@ -43,8 +33,3 @@ Despite my limited experience, I am eager to learn and acquire new skills to fur
 
 ### Conclusion
 I am excited about the opportunities that lie ahead and am confident that my dedication, skills, and passion will help me achieve my goals. I look forward to contributing to projects that challenge and inspire me.
-
-Thank you for considering my application!
-
-Best regards,
-Veranika
