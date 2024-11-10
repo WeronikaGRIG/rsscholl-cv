@@ -21,7 +21,8 @@ Hello! My name is Veranika, and I am an aspiring frontend developer with a passi
 - **Other Strengths:** Adaptability, time management, and attention to detail.
 
 ### Education
-**[Udemy course](https://www.udemy.com/course/webdeveloper/?couponCode=KEEPLEARNING)**
+**[Udemy course HTML, CSS, JS](https://www.udemy.com/course/webdeveloper/?couponCode=KEEPLEARNING)**
+**[Udemy course JS+React](https://www.udemy.com/course/javascript_full/?couponCode=KEEPLEARNING)**
 
 ### Languages
 - **English:** Intermediate (B1)
