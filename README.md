@@ -1,4 +1,4 @@
-# rsscholl-cv
+# rsschool-cv
 
 # My CV
 
